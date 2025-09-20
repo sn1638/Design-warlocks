@@ -27,7 +27,7 @@ function App() {
             <a href="#events" className="text-gray-300 hover:text-white transition-colors duration-200">Events</a>
             <a href="#guests" className="text-gray-300 hover:text-white transition-colors duration-200">Guests</a>
             <a href="#schedule" className="text-gray-300 hover:text-white transition-colors duration-200">Schedule</a>
-            <a href="#contact" className="text-gray-300 hover:text-white transition-colors duration-200">Contact Us</a>
+            <a href="#contact" className="text-gray-300 hover:text-white transition-colors duration-200">Contact</a>
           </div>
         </div>
       </nav>
